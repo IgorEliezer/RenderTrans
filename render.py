@@ -1,5 +1,11 @@
+#!/usr/bin/env python
+
+"""render.py: a small python app that renders multiple blender files. Single file."""
+
 __author__ = 'Igor Eliezer'
+__copyright__ = "Copyright 2015, Igor Eliezer ME"
 __date__ = '2015/01/02'
+__status__ = "Prototype"
 
 import glob
 import os
